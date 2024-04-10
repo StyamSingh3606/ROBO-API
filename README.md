@@ -1,7 +1,7 @@
 R.O.B.O. (Responsive OpenAI + Python Powered AI Desktop Assistant) is a sophisticated and versatile virtual assistant designed to provide an interactive and seamless experience for users. It leverages 
 cutting-edge technology, incorporating OpenAI's powerful language model and various APIs to offer a wide range of functionalities.
-Key Features:
 
+Key Features:
 Natural Language Interaction:
 
 R.O.B.O. employs OpenAI features to facilitate natural language conversations, making interactions with the assistant feel human-like and intuitive. Weather Information:
